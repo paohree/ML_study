@@ -6,6 +6,9 @@ paohree의 머신러닝 스터디 저장소.
 개념 위주로 키워드를 정리하고, 이후 실습 노트로 이어가는 구조.
 GitHub에도 동일하게 올라가 있음.
 정형 데이터, 테이블 데이터를 활용할 ML 프로젝트의 일원이으로 전문가인 팀원들과의 대화와 개발 협업에서 충분히 이해하고 표현할 수 있는 것이 목표임.
+Pandas 코드 한줄 단위는 아니지만 이런 프레임워크도 다뤄야 함.
+사이킷런도 이해해야 함 사용법이랑 알고리즘. 용어 (랜덤 포레스트, 그라디언트 부스팅, SVM), 클러스터링, 분류 회귀 이런 이해 가지기.
+이후 Numpy, Scipy, XG부스터도 해야 함.
 
 ## 수업 방식 (중요)
 
@@ -33,11 +36,17 @@ GitHub에도 동일하게 올라가 있음.
 2. `02_tabular/01_tabular_basics.md` — EDA, 전처리
 3. `02_tabular/02_tabular_models.md` — 모델
 4. `03_deep_learning/01_deep_learning_basics.md` — 딥러닝 기초
-5. `99_practice/01_practice_guide.md` — 실습(후순위임)
+5. `99_practice/01_practice_guide.md` — 실습(후순위임). XGㅂ
 
 ## 현재 진행 상황
 
-- 처음부터 하면 됨
+- `01_basics/01_ml_basics.md` — 완료
+- 오늘(2026-03-17) 커버한 내용:
+  - 파라미터 개념 (W, b, 학습의 의미)
+  - 알고리즘 등장 맥락: 선형회귀 → SVM → 결정트리 → Random Forest → Gradient Boosting
+  - 라이브러리 지형도: numpy, pandas, scipy, scikit-learn, XGBoost
+  - 비지도학습 / 오토인코더 개념 진입
+- 다음 단계: `02_tabular/02_tabular_models.md` 에 위 내용 정리 후 피드백
 
 ## 피드백 방식
 
