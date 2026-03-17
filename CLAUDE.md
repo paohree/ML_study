@@ -30,13 +30,21 @@ Pandas 코드 한줄 단위는 아니지만 이런 프레임워크도 다뤄야 
 - 개념 설명 후 확인 질문을 던져서 이해도를 체크
 - 쉬운 설명(컴공 학부생 수준)부터 어려운 설명(대학원 수준)을 순차적으로 하되 명시적으로는 밝히지 말고 거침없이 할 것
 
-## 학습 순서 (README 기준)
+## 학습 순서
 
-1. `01_basics/01_ml_basics.md` — ML 기초 (현재 진행 중)
-2. `02_tabular/01_tabular_basics.md` — EDA, 전처리
-3. `02_tabular/02_tabular_models.md` — 모델
-4. `03_deep_learning/01_deep_learning_basics.md` — 딥러닝 기초
-5. `99_practice/01_practice_guide.md` — 실습(후순위임). XGㅂ
+1. 비지도학습 — 클러스터링, 오토인코더 ✅
+2. 전처리 — 결측치, 인코딩, 정규화/표준화 ✅
+3. pandas 실습 — 전처리 코드로 직접 (진행 중)
+4. 지도학습 모델 — Random Forest, Gradient Boosting, SVM
+5. sklearn 실습
+6. 평가지표 — Accuracy, Precision, Recall, F1, ROC-AUC
+7. numpy, scipy, XGBoost
+8. 딥러닝 기초 (가볍게)
+
+## 폴더 구조
+
+- 날짜별 학습 노트: `YYMMDD.md`
+- 실습 코드: `code/` 폴더
 
 ## 현재 진행 상황
 
