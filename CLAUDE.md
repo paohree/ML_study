@@ -70,10 +70,11 @@ Pandas, sklearn, numpy, scipy, XGBoost 등을 다뤄야 함.
 
 ### 현재 진행 상황 (2026-03-23)
 - 오늘부터 처음부터 하드하게 재시작
-- **1과목 완료** — 빅데이터 3V/5V, 정형/반정형/비정형, HDFS/NameNode/DataNode, MapReduce vs Spark, Sqoop/Flume/Kafka, NoSQL(Redis/HBase/MongoDB/Cassandra), CRISP-DM 6단계, 데이터 3법, 가명정보 vs 익명정보
-- 퀴즈 5개 중 4개 정답 (Q1 문제 유형 착각으로 오답 → 재확인 후 이해 완료)
-- 속도가 예상보다 빠름 — 하루에 여러 과목 커버 가능할 수 있음
-- 다음: 2과목 (빅데이터 탐색) 또는 오늘 더 진행 가능
+- **1과목 완료** — 빅데이터 3V/5V, 정형/반정형/비정형, HDFS/NameNode/DataNode, MapReduce vs Spark, Sqoop/Flume/Kafka, NoSQL(Redis/HBase/MongoDB/Cassandra), CRISP-DM 6단계, 데이터 3법, 가명정보 vs 익명정보, ETL, DW/데이터레이크/데이터마트, OLTP/OLAP, 메타데이터/MDM
+- 1과목 퀴즈 10문제 8/10 (Flume vs Kafka, Redis, 1종/2종 오류 혼동 → 재확인 완료)
+- **2과목 완료** — 전처리(결측치/이상치/인코딩/정규화/표준화), EDA, 대표값(평균/중앙값/최빈값), 왜도, 분산/표준편차, IQR, 상관관계(피어슨/스피어만), 상관 vs 인과, 가설검정(귀무/대립가설, p-value, 유의수준), 1종/2종 오류
+- 2과목 퀴즈 10문제 8/10 (표준편차를 대표값으로 혼동, 1종/2종 오류 혼동 → 재확인 완료)
+- 다음: 2과목 추가 문제 풀고 3과목으로
 
 ### 이전 세션 커버 내용 (참고용, 2026-03-17)
 - 파라미터 개념 (W, b)
