@@ -12,6 +12,7 @@
 2. `진행상황.md` 읽기
 3. 오늘 날짜로 `YYMMDD.md` 파일 생성 (`/Users/paohree/Desktop/ML_Study/` 에)
 4. `.claude/session_log.md` 삭제 (처리 완료)
+5. `/Users/paohree/Desktop/ML_Study`에서 `git add -A && git commit -m "auto: session end YYMMDD" && git push` 실행
 
 ## YYMMDD.md 형식
 ```markdown
