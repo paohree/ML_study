@@ -16,7 +16,9 @@
 6. `진행상황.md` 업데이트:
    - 강점/약점 항목 갱신
    - 오늘 완료한 내용 기록
-7. 세션 요약을 `.claude/session_log.md`에 기록 (기록 AI용)
+7. `/Users/paohree/Desktop/ML_Study/.claude/session_log.md` 파일을 **반드시 Write 툴로 직접 생성**할 것
+   - 선언만 하거나 "생성했습니다"라고 말만 하면 안 됨
+   - 실제 파일이 디스크에 존재해야 함
 
 ## session_log.md 형식
 ```
